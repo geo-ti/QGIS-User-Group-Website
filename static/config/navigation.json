@@ -29,6 +29,13 @@
           {
             "type": "second-menu",
             "settings": {
+              "name": "Blog",
+              "href": "/blog/"
+            }
+          },
+          {
+            "type": "second-menu",
+            "settings": {
               "name": "Rules",
               "href": "/rules/"
             }
