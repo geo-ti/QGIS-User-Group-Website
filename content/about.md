@@ -1,7 +1,7 @@
 ---
 type: "page"
 title: "About Us"
-subtitle: "Meet the QGIS user group"
+subtitle: "Meet our community"
 draft: false
 sidebar: true
 url: "/about-us/"
