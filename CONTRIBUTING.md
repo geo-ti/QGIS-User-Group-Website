@@ -136,8 +136,9 @@ Navigate to your preferred directory on your local Windows system via the WSL te
 ```bash
 # Example: Navigating to your user Documents folder
 cd /mnt/c/Users/YourUsername/Documents
-```
+git clone https://github.com/QGIS/QGIS-User-Group-Website.git
 cd QGIS-User-Group-Website
+```
 
 ### 🍏 macOS: 
 
